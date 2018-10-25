@@ -1,5 +1,9 @@
 # AWS instance manager
 
+##Name: Daemon Macklin
+##Student Number: 20075689
+##Project best viewed on [github](https://github.com/Daemon-Macklin/dev-ops-project1)
+
 #### What is it?
 This program allows users to start aws instances do some basic management
 
