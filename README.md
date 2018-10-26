@@ -93,3 +93,6 @@ to empty and if the name is correct the bucket is emptied.
 When this option is selected a list of buckets is outputted to the user
 
 
+### References
+
+Line 336 Got code to find CPU usage [here](https://stackoverflow.com/questions/9229333/how-to-get-overall-cpu-sage-e-g-57-on-linux)
